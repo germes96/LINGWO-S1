@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.634172335600907 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 1.634172335600907 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10011538112216994 
+            text = "" 
+        intervals [2]:
+            xmin = 0.10011538112216994 
+            xmax = 0.5133660546979116 
+            text = "mayi" 
+        intervals [3]:
+            xmin = 0.5133660546979116 
+            xmax = 0.8893093757980656 
+            text = "tsama" 
+        intervals [4]:
+            xmin = 0.8893093757980656 
+            xmax = 1.3561295811336258 
+            text = "kag" 
+        intervals [5]:
+            xmin = 1.3561295811336258 
+            xmax = 1.634172335600907 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "syll" 
+        xmin = 0 
+        xmax = 1.634172335600907 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10011538112216994 
+            text = "" 
+        intervals [2]:
+            xmin = 0.10011538112216994 
+            xmax = 0.327785891101398 
+            text = "ma" 
+        intervals [3]:
+            xmin = 0.327785891101398 
+            xmax = 0.5133660546979116 
+            text = "yi" 
+        intervals [4]:
+            xmin = 0.5133660546979116 
+            xmax = 0.7257309841743345 
+            text = "tsa" 
+        intervals [5]:
+            xmin = 0.7257309841743345 
+            xmax = 0.8893093757980656 
+            text = "ma" 
+        intervals [6]:
+            xmin = 0.8893093757980656 
+            xmax = 1.3561295811336258 
+            text = "kag" 
+        intervals [7]:
+            xmin = 1.3561295811336258 
+            xmax = 1.634172335600907 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "tone" 
+        xmin = 0 
+        xmax = 1.634172335600907 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.10011538112216994 
+            text = "" 
+        intervals [2]:
+            xmin = 0.10011538112216994 
+            xmax = 0.327785891101398 
+            text = "M" 
+        intervals [3]:
+            xmin = 0.327785891101398 
+            xmax = 0.5133660546979116 
+            text = "M" 
+        intervals [4]:
+            xmin = 0.5133660546979116 
+            xmax = 0.7257309841743345 
+            text = "M" 
+        intervals [5]:
+            xmin = 0.7257309841743345 
+            xmax = 0.8893093757980656 
+            text = "M" 
+        intervals [6]:
+            xmin = 0.8893093757980656 
+            xmax = 1.3561295811336258 
+            text = "M" 
+        intervals [7]:
+            xmin = 1.3561295811336258 
+            xmax = 1.634172335600907 
+            text = "" 
